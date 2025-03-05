@@ -9,15 +9,7 @@ This repository contains some of the uncertainty quantification methods mentione
 ![fig2](https://github.com/user-attachments/assets/65fdd7b8-af07-4b05-928a-b58ff1409afe)
 
 # Source of uncertainty
-(1)	Errors caused by unknown data
-
-(2) Errors caused by unknown data
-
-(3) Errors and noise in the measurement system
-
-(4) Overfitting and underfitting
-
-(5) Inadequate model training
+![321](https://github.com/user-attachments/assets/8a2c7c8a-5b14-4c50-8799-25aa8eb54011)
 
 ![fig3](https://github.com/user-attachments/assets/8eca9ba6-3bad-4a54-9859-4e12cb6d7390)
 
@@ -48,7 +40,7 @@ We evaluate and analyze the methods involved in this paper according to the eval
 ![fig333](https://github.com/user-attachments/assets/0beea30d-d63c-4137-9a9c-2ca5b8debd71)
 
 
-# Datasets for autonomous driving
+# Datasets for autonomous driving（ID, OOD, Auxiliary）
 
 ![fig555](https://github.com/user-attachments/assets/e0d871a5-b807-4a08-a8ae-41077f8cac89)
 
