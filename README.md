@@ -1,6 +1,6 @@
 # Uncertainty-Quantification-Methods-and-Datasets-for-SOTIF
 This repository contains some of the uncertainty quantification methods mentioned and relevant datasets in the field of autonomous driving.
-# Abstract
+# Current perception challenges faced by autonomous driving
 
 ![fig1](https://github.com/user-attachments/assets/9219c69c-73a1-4bf2-9e53-3141b75f3127)
 
@@ -44,13 +44,11 @@ We evaluate and analyze the methods involved in this paper according to the eval
 ![fig11](https://github.com/user-attachments/assets/cfc3a912-05f5-4a71-a89b-d725e886b581)
 
 # Experimental results of various uncertainty methods under SOTIF evaluation system
-The application of uncertainty quantification in complex scene detection is extensive and multi-dimensional. It can be used not only as a single perception detection method but also to optimize some OOD detection strategies to be practically applied to the perception field required by the SOTIF standard. The uncertainty quantification method has certain performance advantages compared with other methods, which benefit from the excellent representation ability of the distribution uncertainty to the input distribution, and some methods perform well in computational cost and real-time detection speed, which can well meet the requirements of the SOTIF standard. 
 
 ![fig333](https://github.com/user-attachments/assets/0beea30d-d63c-4137-9a9c-2ca5b8debd71)
 
 
 # Datasets for autonomous driving
-We split the SOTIF dataset into the id dataset, OOD dataset, and auxiliary dataset. The id data set was used for neural network training to improve the perception model's detection ability and enhance the expected function's security. OOD dataset is a test dataset with different distributions of training and data, which is used to evaluate the robustness and reliability of machine learning models, and test the ability of the model to detect unknown scenes and judge whether the intended function is safe enough. Auxiliary datasets are introduced to aid model training, and using them can produce better training results than only using ID data, and the prior distribution of the auxiliary data can fit the ID data within the long tail. In addition, the outlier exposure method will decrease detection performance due to the difference between auxiliary data and OOD data, so the study of auxiliary data sets is also very important.
 
 ![fig555](https://github.com/user-attachments/assets/e0d871a5-b807-4a08-a8ae-41077f8cac89)
 
